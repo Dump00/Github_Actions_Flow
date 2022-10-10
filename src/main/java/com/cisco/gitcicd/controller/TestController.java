@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping("/welcome")
     public String sayHello() {
-        return "Welcome to the CI/CD";
+        return "Welcome to the Github flow";
     }
 }
